@@ -1,2 +1,1 @@
-# Movies-Page
-UMass Lowell GUI Programming 1 | Homework 1
+Everything is in gh-pages branch
