@@ -1,2 +1,2 @@
-# Movies-Page
-UMass Lowell GUI Programming 1 | Homework 1
+UMass Lowell GUI Programming
+Homework 1
