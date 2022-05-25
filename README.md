@@ -1,1 +1,2 @@
-Everything is in gh-pages branch
+UMass Lowell GUI Programming
+Homework 1
